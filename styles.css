@@ -91,7 +91,7 @@ body {
 .maindiv {
     width: 473px;
     height: 883px;
-    background-image: url("/pictures/list_optimized.png");
+    background-image: url("pictures/list_optimized.png");
     background-size: cover;
     position: relative;
     display: flex;
